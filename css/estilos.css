@@ -1,0 +1,47 @@
+.bg.fondo {
+  background-color: #DE1D22
+}
+
+#body {
+  background-color: black
+}
+
+#color-de-texto{
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+.bg-light{
+  color: red
+}
+
+.carousel-caption{
+color: black;
+frot-family:'Inter', sans-serif;
+background-color: white;
+}
+
+.card-text{
+  color: #DE1D22
+}
+
+.card-body{
+  color: #DE1D22
+}
+
+#container-3{
+  background-color: red;
+}
+
+#facebook{
+  color: white;
+}
+#youtube{
+  color: white;
+}
+#instagram{
+  color: white;
+}
+#twitter{
+  color: white;
+}
